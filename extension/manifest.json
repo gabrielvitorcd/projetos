@@ -1,0 +1,11 @@
+{   
+    "manifest_version": 3,
+    "name":"Minha Primeira extensão",
+    "description":"Pai ta fazendo a primeira extensão",
+    "version":"1.0.0",
+    "permissions": ["activeTab", "scripting", "tabs"],
+    "action": {
+        "default_popup":"index.html"
+    } 
+
+}
